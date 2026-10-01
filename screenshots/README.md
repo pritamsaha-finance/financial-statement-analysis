@@ -1,1 +1,1 @@
-Screenshots of the Financial Statement Analysis project.
+Screenshots of the Financial Statement Analysis projects.
