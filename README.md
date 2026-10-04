@@ -89,7 +89,7 @@ Through this project, I strengthened my ability to:
 
 ## 📌 Project Context
 
-This project was completed as a **financial and credit analysis case study for academic learning and portfolio development**. It is intended to demonstrate practical application of financial analysis concepts using Microsoft Excel.
+This project was completed as a **financial and credit analysis case study for academic learning and portfolio development (Synthetic Datas)**. It is intended to demonstrate practical application of financial analysis concepts using Microsoft Excel.
 
 ---
 
