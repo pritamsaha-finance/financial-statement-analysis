@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents a **Financial Statement and Credit Analysis of Green Solutions Manufacturing Ltd.**, developed to apply financial analysis concepts in a practical business case.
+This project presents a **Financial Statement and Credit Analysis of Green Solutions Manufacturing Ltd.**, developed to apply financial analysis concepts in a Synthetic practical business case.
 
 The project focuses on evaluating the company's **financial performance, financial position, key accounting ratios, industry trends, and credit-related factors** using Microsoft Excel. The analysis demonstrates how financial information can be interpreted to understand business performance and identify potential financial risks.
 
